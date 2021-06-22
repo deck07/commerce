@@ -21,6 +21,7 @@ module.exports = {
       },
       colors: {
         primary: 'var(--primary)',
+        modified:'#FEC00F',
         'primary-2': 'var(--primary-2)',
         secondary: 'var(--secondary)',
         'secondary-2': 'var(--secondary-2)',
@@ -38,6 +39,7 @@ module.exports = {
         'accent-8': 'var(--accent-8)',
         'accent-9': 'var(--accent-9)',
         violet: 'var(--violet)',
+        white:'#FFFFFF',
         'violet-light': 'var(--violet-light)',
         'violet-dark': 'var(--violet-dark)',
         pink: 'var(--pink)',
