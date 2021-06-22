@@ -13,11 +13,15 @@ Aside from the default installation of Next.js ecommerce
 ## Integrations
 
 Backend ecommerce deployment:[store-xjhp7ifs5f.mybigcommerce.com](https://store-xjhp7ifs5f.mybigcommerce.com)
+
   Note: Inaccessible publicly using its default storefront. This is only used as headless server.
 
 Client (public facing app):[aosapplicationtest-deck07.vercel.app](https://aosapplicationtest-deck07.vercel.app)
+
 All configured using vercel setup wizard. Vercel automatically configured api keys. Could also be done if already bigcommerce store already exist. API keys should be generated manually.
+
 Integration with local setup was configured using [vercel cli](https://vercel.com/cli)
+
   Run command: 
   
   vercel env pull .env.local
