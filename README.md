@@ -35,6 +35,7 @@ yarn run dev
 
 ##  Solution and Further Considerations
 A. Randomization
+
   There's no apparent randomization in the backend catalogue,therefore the randomization has been implemented in the frontend, particularly right after resolving the product Promise.
   See [commit](https://github.com/deck07/commerce/commit/5926071e3c7975cf3582a19f06e0fdce067d5bd6)
   
@@ -43,7 +44,9 @@ Shall the store have sizeable number of products, it must only use a subset of t
 Possible solution with this scenario is to create logical category which groups the products that are allowed to be in the frontpage. The api query of this app in the frontpage should then be filtered with this category.
 
 
+
 B. Layout/UI Changes
+
   The UI changes are for demonstration purposes only. Given limited time, and no particular design to implement yet the modification are more on colouring and "eye-candy" factor only.
   See [commit](https://github.com/deck07/commerce/commit/384fe68ed2241a0e2fb2ba392d5ca205e8b2d777)
 
