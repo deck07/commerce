@@ -22,11 +22,14 @@ Integration with local setup was configured using [vercel cli](https://vercel.co
 
 ## Software used in running
 node v16.3.0
+
 npm v7.15.1
+
 yarn v1.22.10
 
 ## How to run locally
 yarn install
+
 yarn run dev
  
 
