@@ -18,7 +18,7 @@ Backend ecommerce deployment:[store-xjhp7ifs5f.mybigcommerce.com](https://store-
 
 Client (public facing app):[aosapplicationtest-deck07.vercel.app](https://aosapplicationtest-deck07.vercel.app)
 
-All configured using vercel setup wizard. Vercel automatically configured api keys. Could also be done if already bigcommerce store already exist. API keys should be generated manually.
+All configured using vercel setup wizard. Vercel automatically configured api keys. Could also be done if bigcommerce store already exists. API keys should be generated manually.
 
 Integration with local setup was configured using [vercel cli](https://vercel.com/cli)
 
